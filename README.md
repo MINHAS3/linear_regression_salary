@@ -1,10 +1,12 @@
-# linear_regression_salary
+# linear_regression_salaryis
 
-SMOTEENN
-The analysis of this credit risk resampling the best 
+This is the anlysis of the sampling for predicating lending for mortgages. 
+
+Resampling
+The analysis of this credit risk resampling limiting the defualt of false negatives. With the resampling accuracy, the combination has higher recall than the other model.
+The model The best model to measure this from Bootstrapping. It will be good option because Bootstrap randomly draws samples, having multiple occurances in the same sample. 
 
 
 Ensemble
-It is grouping together the loans that are less at risk from borrowers by measuring their limits to borrow, if they have qualififed 
-the clients will only be allowed for that amount. This is also matched with the average of the amounts borrowed with the interest rates. 
-The best model to measure this from Bootstrapping. It will be good option because Bootstrap randomly draws samples, having multiple occurances in the same sample. 
+It is grouping together the model with high accuracy and recall in the AdaBoost model 
+Adaptiveboost model has accuracy and high recall. Finding the best predictability with the highest accuracy by having more true positives. 
